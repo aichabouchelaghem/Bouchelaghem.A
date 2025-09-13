@@ -39,14 +39,8 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-```dart
-// Quick overview of my tools
-class AboutMe { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Java", "Python", "C++", "Dart", "JavaScript" },
-    "Frameworks" : { "Flutter" },
-    "Web" : { "HTML", "CSS" },
-    "Platforms" : { "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop" }
-  };
-}
+### 📁 Portfolio / Projects  
+
+- 🎓 **Graduation Project:** [Heuristic Algorithms for the Hub Location Routing Problem](LINK_TO_YOUR_PDF_OR_REPO)
+- 🌐 **More Projects:** [See all repositories](https://github.com/YOUR_USERNAME?tab=repositories)
+
