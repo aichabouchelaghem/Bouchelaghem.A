@@ -1,6 +1,5 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/54c0c8e2-1ece-4c34-96eb-0915cafab374" /><div align="center" width="50">
-
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c0c60879-d217-4617-930c-a58807d3b7ab" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/54c0c8e2-1ece-4c34-96eb-0915cafab374" />
+<div align="center" width="50">
 
 <details>
 <p><strong> <summary> Currently exploring & coding : </summary> </strong></p>
@@ -10,7 +9,7 @@
 </details>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=aicha-bouchelaghem&style=flat&color=orange&label=PROFILE+VIEWS)
-[![email](https://img.shields.io/badge/Contact%20me%20on-Telegram-blue?style=flat&logo=telegram)](https://t.me/YOUR_USERNAME) <br>
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-blue?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
 </div>
 
 <hr></hr>
