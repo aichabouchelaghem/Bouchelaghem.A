@@ -1,11 +1,11 @@
-<div align="center" width="50">
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/54c0c8e2-1ece-4c34-96eb-0915cafab374" /><div align="center" width="50">
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c0c60879-d217-4617-930c-a58807d3b7ab" />
 
 <details>
 <p><strong> <summary> Currently exploring & coding : </summary> </strong></p>
 
-🎧 Always learning & improving AI & Optimization Algorithms  
+ Always learning & improving AI & Optimization Algorithms  
 
 </details>
 
