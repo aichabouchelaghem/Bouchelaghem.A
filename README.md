@@ -1,41 +1,51 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/54c0c8e2-1ece-4c34-96eb-0915cafab374" />
-<div align="center" width="50">
+<div align="center">
+
+<img width="1536" height="1024" alt="header" src="https://github.com/user-attachments/assets/54c0c8e2-1ece-4c34-96eb-0915cafab374" />
+
+<hr>
 
 <details>
-<p><strong> <summary> Currently exploring & coding : </summary> </strong></p>
-
- Always learning & improving AI & Optimization Algorithms  
-
+  <summary><strong>🧠 Currently exploring & coding</strong></summary>
+  <br/>
+  Always learning & improving AI, Optimization Algorithms, and Software Engineering.
 </details>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aicha-bouchelaghem&style=flat&color=blue&label=PROFILE+VIEWS" />
+<br/>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=aicha-bouchelaghem&style=flat-square&color=blue&label=PROFILE+VIEWS" />
+  
   <a href="mailto:aichabouchelagem@gmail.com">
-    <img src="https://img.shields.io/badge/Contact%20me%20via-Email-yellow?style=flat&logo=gmail&logoColor=blue" />
+    <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-yellow?style=flat-square&logo=gmail&logoColor=blue" />
   </a>
 </p>
+
 </div>
 
-<hr></hr>
+---
 
-### 👩‍💻 About Me  
+### 👩‍💻 About Me
 
-- 🧠 **Aïcha Bouchelaghem** – Master’s degree in **Artificial Intelligence**  
-- 🎓 Graduation project: *Heuristic Algorithms for the Hub Location Routing Problem* (Java implementation)  
-- 💡 Interested in **Optimization, AI, and Data Science**  
-- 🌱 Currently improving my skills in **Flutter & Web Development**  
+- 🧠 **Aïcha Bouchelaghem** – Master’s degree in **Artificial Intelligence**
+- 🎓 Graduation project: *Heuristic Algorithms for the Hub Location Routing Problem (Java)*
+- 💡 Focus: **AI, Optimization, Machine Learning**
+- 🌱 Currently learning: **Flutter & Web Development**
 
-<hr></hr>
+---
 
-### 🚀 Tools & Technologies  
+### 🚀 Tools & Technologies
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+<p>
 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=yellow" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=yellow" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=yellow" />
 
-### 📁 Portfolio / Projects  
+</p>
 
-- 🎓 **Graduation Project:** [Heuristic Algorithms for the Hub Location Routing Problem](LINK_TO_YOUR_PDF_OR_REPO)
-- 🌐 **More Projects:** [See all repositories](https://github.com/YOUR_USERNAME?tab=repositories)
+---
 
+### 📁 Portfolio / Projects
+
+- 🎓 **Graduation Project:** [Heuristic Algorithms for HLRP](LINK_TO_YOUR_REPO)
+- 🌐 **More Projects:** [GitHub Repositories](https://github.com/YOUR_USERNAME?tab=repositories)
