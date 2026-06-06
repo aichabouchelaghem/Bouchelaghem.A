@@ -32,27 +32,28 @@
 
 </p>
 
-- 🧠 **Aïcha Bouchelaghem** – Master’s degree in **Artificial Intelligence**
+- Master’s degree in **Artificial Intelligence**
 
 <p>
 <img src="https://img.shields.io/badge/Graduation%20Project-Yellow?style=flat-square&logo=java&logoColor=blue" />
 </p>
 
-- 🎓 *Heuristic Algorithms for the Hub Location Routing Problem (Java implementation)*
+- 🎓 Heuristic Algorithms for the Hub Location Routing Problem (Java implementation)
 
 <p>
 <img src="https://img.shields.io/badge/Focus-Blue?style=flat-square&logo=target&logoColor=yellow" />
 </p>
 
-- 💡 **AI, Optimization, Machine Learning**
+-AI, Combinatorial Optimization, Machine Learning
 
 <p>
 <img src="https://img.shields.io/badge/Learning-Yellow?style=flat-square&logo=flutter&logoColor=blue" />
 </p>
 
-- 🌱 Currently learning **Flutter & Web Development**
+-  Currently learning **Flutter & Web Development**
 
-### 🚀 Tools & Technologies
+### <img width="951" height="1024" alt="image" src="https://github.com/user-attachments/assets/7945f866-563d-4a7d-a6b1-2756ab9a4717" />
+ Tools & Technologies
 
 <p>
 
