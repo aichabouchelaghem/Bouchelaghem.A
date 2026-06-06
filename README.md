@@ -2,6 +2,7 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c0c60879-d217-4617-930c-a58807d3b7ab" />
 
 <details>
 <p><strong> <summary> Currently exploring & coding : </summary> </strong></p>
