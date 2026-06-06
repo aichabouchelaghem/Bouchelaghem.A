@@ -8,8 +8,9 @@
 
 </details>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=aicha-bouchelaghem&style=flat&color=orange&label=PROFILE+VIEWS)
-[![Email](https://img.shields.io/badge/Contact%20me%20via-Email-red?style=flat&logo=gmail)](mailto:your.email@example.com)
+![Totals Hits](https://komarev.com/ghpvc/?username=aicha-bouchelaghem&style=flat&color=blue&label=PROFILE+VIEWS)
+
+[![Email](https://img.shields.io/badge/Contact%20me%20via-Email-yellow?style=flat&logo=gmail&logoColor=blue)](mailto:your.email@example.com)
 </div>
 
 <hr></hr>
