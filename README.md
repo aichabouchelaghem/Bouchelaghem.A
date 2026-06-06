@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/Focus-Blue?style=flat-square&logo=target&logoColor=yellow" />
 </p>
 
--AI, Combinatorial Optimization, Machine Learning
+- AI, Combinatorial Optimization, Machine Learning
 
 <p>
 <img src="https://img.shields.io/badge/Learning-Yellow?style=flat-square&logo=flutter&logoColor=blue" />
@@ -52,8 +52,7 @@
 
 -  Currently learning **Flutter & Web Development**
 
-### <img width="951" height="1024" alt="image" src="https://github.com/user-attachments/assets/7945f866-563d-4a7d-a6b1-2756ab9a4717" />
- Tools & Technologies
+###Tools & Technologies
 
 <p>
 
