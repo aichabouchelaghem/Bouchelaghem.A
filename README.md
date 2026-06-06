@@ -9,7 +9,7 @@
 </details>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=aicha-bouchelaghem&style=flat&color=orange&label=PROFILE+VIEWS)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-blue?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Contact%20me%20via-Email-red?style=flat&logo=gmail)](mailto:your.email@example.com)
 </div>
 
 <hr></hr>
