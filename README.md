@@ -55,15 +55,6 @@
 <p>
 <img src="https://img.shields.io/badge/Tools & Technologies-Yellow?style=flat-square&logo=flutter&logoColor=blue" />
 </p>
-<p>
-  <img src="<img width="145" height="114" alt="image" src="https://github.com/user-attachments/assets/c94768fc-c24d-43a3-a5cc-94fdaafb61ac" />
-" width="28" alt="Tools & Technologies"/>
-  <strong> Tools & Technologies</strong>
-</p
- <h3>
-  <img src="URL_OF_YOUR_ICON" width="30" alt="Tools Icon"/>
-  Tools & Technologies
-</h3>
 
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=yellow" />
@@ -75,5 +66,5 @@
 
 ### 📁 Portfolio / Projects
 
-- 🎓 **Graduation Project:** [Heuristic Algorithms for HLRP](LINK_TO_YOUR_REPO)
+- 🎓 **Graduation Project:** [Heuristic Algorithms for HLRP](http://dspace.centre-univ-mila.dz/jspui/handle/123456789/4486)
 - 🌐 **More Projects:** [GitHub Repositories](https://github.com/YOUR_USERNAME?tab=repositories)
