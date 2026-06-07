@@ -56,7 +56,8 @@
 <img src="https://img.shields.io/badge/Tools & Technologies-Yellow?style=flat-square&logo=flutter&logoColor=blue" />
 </p>
 <p>
-  <img src="URL_OF_YOUR_ICON" width="28" alt="Tools & Technologies"/>
+  <img src="<img width="145" height="114" alt="image" src="https://github.com/user-attachments/assets/c94768fc-c24d-43a3-a5cc-94fdaafb61ac" />
+" width="28" alt="Tools & Technologies"/>
   <strong> Tools & Technologies</strong>
 </p
  <h3>
