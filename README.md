@@ -52,7 +52,9 @@
 
 -  Currently learning **Flutter & Web Development**
 
-###Tools & Technologies
+<p>
+<img src="https://img.shields.io/badge/Tools & Technologies-Yellow?style=flat-square&logo=flutter&logoColor=blue" />
+</p>
 
 <p>
 
