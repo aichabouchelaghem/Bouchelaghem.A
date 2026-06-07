@@ -4,12 +4,6 @@
 
 <hr>
 
-<details>
-  <summary><strong>🧠 Currently exploring & coding</strong></summary>
-  <br/>
-  Always learning & improving AI, Optimization Algorithms, and Software Engineering.
-</details>
-
 <br/>
 
 <p>
@@ -50,7 +44,7 @@
 <img src="https://img.shields.io/badge/Learning-Yellow?style=flat-square&logo=flutter&logoColor=blue" />
 </p>
 
--  Currently learning **Flutter & Web Development**
+-  Currently learning **...**
 
 <p>
 <img src="https://img.shields.io/badge/Tools & Technologies-Yellow?style=flat-square&logo=flutter&logoColor=blue" />
@@ -66,8 +60,8 @@
 
 ### 📁 Portfolio / Projects
 
-- 🎓 **Graduation Project:** [Heuristic Algorithms for HLRP](http://dspace.centre-univ-mila.dz/jspui/handle/123456789/4486)
--  🚀 **code Project:** [HLRP Project](https://github.com/aichabouchelaghem/Bouchelaghem.A/tree/master)
+- **📘 Thesis Report:** [Heuristic Algorithms for HLRP](http://dspace.centre-univ-mila.dz/jspui/handle/123456789/4486)
+- **💻 Project Source Code:** [HLRP Project](https://github.com/aichabouchelaghem/Bouchelaghem.A/tree/master)
 - 🌐 **More Projects:** [GitHub Repositories](https://github.com/aichabouchelaghem?tab=repositories)
 
 
