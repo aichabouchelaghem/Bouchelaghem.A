@@ -55,13 +55,19 @@
 <p>
 <img src="https://img.shields.io/badge/Tools & Technologies-Yellow?style=flat-square&logo=flutter&logoColor=blue" />
 </p>
+<p>
+  <img src="URL_OF_YOUR_ICON" width="28" alt="Tools & Technologies"/>
+  <strong> Tools & Technologies</strong>
+</p
+ <h3>
+  <img src="URL_OF_YOUR_ICON" width="30" alt="Tools Icon"/>
+  Tools & Technologies
+</h3>
 
 <p>
-
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=yellow" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=yellow" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=yellow" />
-
 </p>
 
 ---
